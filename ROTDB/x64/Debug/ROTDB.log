@@ -1,0 +1,8 @@
+﻿  EnemyBullet.cpp
+  Energy.cpp
+D:\tailieu\uet\nam1\ltnc\btl\ROTDB\Energy.cpp(5,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\tailieu\uet\nam1\ltnc\btl\ROTDB\Energy.cpp(18,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\tailieu\uet\nam1\ltnc\btl\ROTDB\Energy.cpp(31,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  KiBlast.cpp
+  Generating Code...
+  ROTDB.vcxproj -> D:\tailieu\uet\nam1\ltnc\btl\ROTDB\x64\Debug\ROTDB.exe

@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60A448F8-FA74-4675-8687-276DFF607FBB}|ROTDB.vcxproj|D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\EnemyBullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60A448F8-FA74-4675-8687-276DFF607FBB}|ROTDB.vcxproj|solutionrelative:EnemyBullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A448F8-FA74-4675-8687-276DFF607FBB}|ROTDB.vcxproj|D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60A448F8-FA74-4675-8687-276DFF607FBB}|ROTDB.vcxproj|solutionrelative:Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A448F8-FA74-4675-8687-276DFF607FBB}|ROTDB.vcxproj|D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60A448F8-FA74-4675-8687-276DFF607FBB}|ROTDB.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A448F8-FA74-4675-8687-276DFF607FBB}|ROTDB.vcxproj|D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\Hud.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60A448F8-FA74-4675-8687-276DFF607FBB}|ROTDB.vcxproj|solutionrelative:Hud.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A448F8-FA74-4675-8687-276DFF607FBB}|ROTDB.vcxproj|D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\Energy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60A448F8-FA74-4675-8687-276DFF607FBB}|ROTDB.vcxproj|solutionrelative:Energy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A448F8-FA74-4675-8687-276DFF607FBB}|ROTDB.vcxproj|D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\KiBlast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60A448F8-FA74-4675-8687-276DFF607FBB}|ROTDB.vcxproj|solutionrelative:KiBlast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A448F8-FA74-4675-8687-276DFF607FBB}|ROTDB.vcxproj|D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\KiBlast.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60A448F8-FA74-4675-8687-276DFF607FBB}|ROTDB.vcxproj|solutionrelative:KiBlast.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A448F8-FA74-4675-8687-276DFF607FBB}|ROTDB.vcxproj|D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60A448F8-FA74-4675-8687-276DFF607FBB}|ROTDB.vcxproj|solutionrelative:Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A448F8-FA74-4675-8687-276DFF607FBB}|ROTDB.vcxproj|D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\GameBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60A448F8-FA74-4675-8687-276DFF607FBB}|ROTDB.vcxproj|solutionrelative:GameBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A448F8-FA74-4675-8687-276DFF607FBB}|ROTDB.vcxproj|D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60A448F8-FA74-4675-8687-276DFF607FBB}|ROTDB.vcxproj|solutionrelative:Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A448F8-FA74-4675-8687-276DFF607FBB}|ROTDB.vcxproj|D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60A448F8-FA74-4675-8687-276DFF607FBB}|ROTDB.vcxproj|solutionrelative:Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A448F8-FA74-4675-8687-276DFF607FBB}|ROTDB.vcxproj|D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60A448F8-FA74-4675-8687-276DFF607FBB}|ROTDB.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-22T07:45:07.922Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyBullet.cpp",
+              "DocumentMoniker": "D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\EnemyBullet.cpp",
+              "RelativeDocumentMoniker": "EnemyBullet.cpp",
+              "ToolTip": "D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\EnemyBullet.cpp",
+              "RelativeToolTip": "EnemyBullet.cpp",
+              "ViewState": "AQIAAD4AAAAAAAAAAADwv1gAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-23T04:27:50.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hud.cpp",
+              "DocumentMoniker": "D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\Hud.cpp",
+              "RelativeDocumentMoniker": "Hud.cpp",
+              "ToolTip": "D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\Hud.cpp",
+              "RelativeToolTip": "Hud.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-22T19:57:50.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Energy.cpp",
+              "DocumentMoniker": "D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\Energy.cpp",
+              "RelativeDocumentMoniker": "Energy.cpp",
+              "ToolTip": "D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\Energy.cpp",
+              "RelativeToolTip": "Energy.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-22T19:49:18.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Utils.h",
+              "DocumentMoniker": "D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\Utils.h",
+              "RelativeDocumentMoniker": "Utils.h",
+              "ToolTip": "D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\Utils.h",
+              "RelativeToolTip": "Utils.h",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-22T19:34:17.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Character.h",
+              "DocumentMoniker": "D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\Character.h",
+              "RelativeDocumentMoniker": "Character.h",
+              "ToolTip": "D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\Character.h",
+              "RelativeToolTip": "Character.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-22T19:05:35.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KiBlast.h",
+              "DocumentMoniker": "D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\KiBlast.h",
+              "RelativeDocumentMoniker": "KiBlast.h",
+              "ToolTip": "D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\KiBlast.h",
+              "RelativeToolTip": "KiBlast.h",
+              "ViewState": "AQIAABcAAAAAAAAAAAAtwB8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-22T18:58:58.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Character.cpp",
+              "DocumentMoniker": "D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\Character.cpp",
+              "RelativeDocumentMoniker": "Character.cpp",
+              "ToolTip": "D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\Character.cpp",
+              "RelativeToolTip": "Character.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-22T18:47:41.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KiBlast.cpp",
+              "DocumentMoniker": "D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\KiBlast.cpp",
+              "RelativeDocumentMoniker": "KiBlast.cpp",
+              "ToolTip": "D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\KiBlast.cpp",
+              "RelativeToolTip": "KiBlast.cpp",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAHoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-22T18:43:52.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.h",
+              "DocumentMoniker": "D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\Game.h",
+              "RelativeDocumentMoniker": "Game.h",
+              "ToolTip": "D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\Game.h",
+              "RelativeToolTip": "Game.h",
+              "ViewState": "AQIAAIECAAAAAAAAAAAtwJcCAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-22T17:15:59.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utils.cpp",
+              "DocumentMoniker": "D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\Utils.cpp",
+              "RelativeDocumentMoniker": "Utils.cpp",
+              "ToolTip": "D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\Utils.cpp",
+              "RelativeToolTip": "Utils.cpp",
+              "ViewState": "AQIAAJ8CAAAAAAAAAAAtwLMCAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-22T18:04:47.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameBase.h",
+              "DocumentMoniker": "D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\GameBase.h",
+              "RelativeDocumentMoniker": "GameBase.h",
+              "ToolTip": "D:\\tailieu\\uet\\nam1\\ltnc\\btl\\ROTDB\\GameBase.h",
+              "RelativeToolTip": "GameBase.h",
+              "ViewState": "AQIAACQAAAAAAAAAAAAtwDgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-22T18:50:47.334Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
