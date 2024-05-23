@@ -1,5 +1,4 @@
 ![title](https://github.com/tudzct/road-of-the-dragon-boy/blob/main/imgs/TEXT.gif)
-# ***ROAD OF THE DRAGON BOY***
  ## Thông tin cá nhân
 - Họ và tên : Lý Đức Tú
 - Mã sinh viên : 23021701
@@ -7,7 +6,7 @@
 - Trường Đại học Công nghệ - Đại học Quốc gia Hà Nội (UET - VNU)
 
  ## Sơ lược về game
- Road Of The Dragon Boy là tựa game 2D trong đó người chơi sẽ hoá thân thành cậu bé Son Goku trong bộ truyện đình đám Dragon Ball, với nhiệm vụ tấn công hoặc né tránh các chướng ngại vật trong cuộc hành trình để đi được quãng đường xa nhất có thể.
+ ***Road Of The Dragon Boy*** là tựa game 2D trong đó người chơi sẽ hoá thân thành ***cậu bé Son Goku*** trong series tuổi thơ đình đám ***Dragon Ball***, với nhiệm vụ tấn công hoặc né tránh các chướng ngại vật trong chuyến hành trình để đi được quãng đường xa nhất có thể.
 
    ## Hướng dẫn chơi
    * <kbd>UpArrow</kbd> Nhảy lên
