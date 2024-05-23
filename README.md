@@ -17,14 +17,14 @@
    * <kbd>Escape</kbd> Thoát game
    * Trên suốt quãng đường đi, người chơi có thể thu thập năng lượng bằng cách ăn các bình Ki được random ở những độ cao khác nhau.
    
-     ## Các công cụ đã sử dụng
-     - SDL2, C++, Visual Studio, Aseprite
+   ## Các công cụ đã sử dụng
+   - SDL2, C++, Visual Studio, Aseprite
      
-       ## Điểm mong muốn: 9 đến 10
+   ## Điểm mong muốn: 9 đến 10
        
-       ## Nguồn tham khảo
-       - Tài liệu LTNC trong docs của thầy cô
-       - Phattrienphanmem123az: https://www.youtube.com/c/Ph%C3%A1tTri%E1%BB%83nPh%E1%BA%A7nM%E1%BB%81m123AZ
-       - Lazyfoo tutorial : https://lazyfoo.net/tutorials/SDL/index.php
-       - Đồ họa : itch.io, sprite source và tự chỉnh sửa/ thiết kế thêm
-       - Âm thanh: Lấy từ Sound track của Moblie Dragon Legend
+   ## Nguồn tham khảo
+   - Tài liệu LTNC trong docs của thầy cô
+   - Phattrienphanmem123az: https://www.youtube.com/c/Ph%C3%A1tTri%E1%BB%83nPh%E1%BA%A7nM%E1%BB%81m123AZ
+   - Lazyfoo tutorial : https://lazyfoo.net/tutorials/SDL/index.php
+   - Đồ họa : itch.io, sprite source và tự chỉnh sửa/ thiết kế thêm
+   - Âm thanh: Lấy từ Sound track của Moblie Dragon Legend
