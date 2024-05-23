@@ -20,7 +20,7 @@
    ## Các công cụ đã sử dụng
    - SDL2, C++, Visual Studio, Aseprite
      
-   ## Điểm mong muốn: 9 đến 10
+   ## Điểm mong muốn: 9 điểm
        
    ## Nguồn tham khảo
    - Tài liệu LTNC trong docs của thầy cô
