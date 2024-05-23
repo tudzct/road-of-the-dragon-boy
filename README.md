@@ -1,3 +1,4 @@
+![title](https://github.com/tudzct/road-of-the-dragon-boy/blob/main/imgs/TEXT.gif)
 # ROAD OF THE DRAGON BOY
  ## Thông tin cá nhân
 - Họ và tên : Lý Đức Tú
