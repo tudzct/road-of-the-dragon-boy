@@ -17,7 +17,9 @@
    * <kbd>Escape</kbd> Thoát game
    * Trên suốt quãng đường đi, người chơi có thể thu thập năng lượng bằng cách ăn các bình Ki được random ở những độ cao khác nhau.
 
-   ## Gameplay: Xem [tại đây](https://youtu.be/oWxoWkbNdSo)
+   ## Gameplay: 
+   * Xem gameplay [tại đây](https://youtu.be/oWxoWkbNdSo)
+   ![image](https://github.com/tudzct/road-of-the-dragon-boy/blob/main/imgs/background/menu.png)
    
    ## Các công cụ đã sử dụng
    - SDL2, C++, Visual Studio, Aseprite
